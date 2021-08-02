@@ -7,7 +7,12 @@ use:
   sudo proxycahins4 python3 DDOS_GOLD_DUST.py -g 0.0.0.0 -w 100 -t <your target site ip address A1> -p <80 or 443 or 8080 or any port it get the requests> 
     A1 >> use nslookup and site address to get it ip address
     you can use nmap + proxychains4 for finding the open ports on your target 
-    
+
+installing required:
+LINUX:<br>
+  <code> pip3 install scapy</code><br>
+WINDOWS:<br>
+  <code> py -m pip install scapy</code><br>
  the program environment : 
  <img src='DDOS_GOLD_DUST.png' alt='DDOS_GOLD_DUST'>
  program whlie working : 
