@@ -8,4 +8,7 @@ use:
     A1 >> use nslookup and site address to get it ip address
     you can use nmap + proxychains4 for finding the open ports on your target 
     
+ the program environment : 
+ <img src='DDOS_GOLD_DUST.png' alt='DDOS_GOLD_DUST'>
+    
     
